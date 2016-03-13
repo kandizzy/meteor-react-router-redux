@@ -1,0 +1,32 @@
+{
+  "name": "kandizzy/meteor-react-router-redux",
+  "version": "1.0.0",
+  "description": "scaffold test for Meteor + React + React-Router-Redux ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kandizzy/meteor-react-router-redux.git"
+  },
+  "author": "CK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kandizzy/meteor-react-router-redux/issues"
+  },
+  "homepage": "https://github.com/kandizzy/meteor-react-router-redux/#readme",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-redux": "^4.4.1",
+    "react-router": "^2.0.1",
+    "react-router-redux": "^4.0.0",
+    "redux": "^3.3.1"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.1.1",
+    "redux-devtools-dock-monitor": "^1.1.0",
+    "redux-devtools-log-monitor": "^1.0.5"
+  }
+}
