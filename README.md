@@ -8,7 +8,6 @@ This is the basic example from /examples/basic in [reactjs/react-router-redux](h
 
 ## Setup
 1. Install [Meteor](https://www.meteor.com/install)
-2. Install [Node.js](https://nodejs.org/en/) 
 2. Clone repo and run in local environment
 
 		git clone https://github.com/kandizzy/meteor-react-router-redux.git
