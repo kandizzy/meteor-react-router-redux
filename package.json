@@ -1,5 +1,5 @@
 {
-  "name": "kandizzy/meteor-react-router-redux",
+  "name": "kandizzy-meteor-react-router-redux",
   "version": "1.0.0",
   "description": "scaffold test for Meteor + React + React-Router-Redux ",
   "main": "main.js",
